@@ -32,4 +32,5 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="data_model.jpeg">
+![data-model](https://github.com/varunkg123/uber-etl-pipeline-data-engineering-project/assets/103302482/66e03463-af53-4470-a302-db0bee8b3e68)
+
